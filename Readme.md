@@ -1,28 +1,42 @@
-1. Angular Overview and Setup (3 hours)
-■ What is Angular?
-■ Setting up Angular CLI and creating a new Angular project
-■ Understanding the Angular architecture (Modules, Components, Services)
-2. Components and Templates in Angular (4 hours)
-■ Creating Angular components
-■ Data binding in Angular: Interpolation, Property Binding, Event Binding,
-Two-way Binding
-■ Using Directives (ngIf, ngFor, etc.)
-3. Services and Dependency Injection in Angular (3 hours)
-■ Introduction to Angular Services
-■ Dependency Injection and how it works in Angular
-■ Creating and injecting services into components
-4. Routing in Angular (3 hours)
-■ Setting up routing in Angular
-■ Configuring routes with RouterModule
-■ Route guards and lazy loading in Angular
-5. Forms in Angular (2 hours)
-■ Template-driven forms
-■ Reactive forms in Angular
+# Angular Learning Plan
 
+## 1. Angular Overview and Setup (3 hours)
 
+- **What is Angular?**
+- **Setting up Angular CLI and creating a new Angular project**
+- **Understanding the Angular architecture**
+  - Modules
+  - Components
+  - Services
 
+## 2. Components and Templates in Angular (4 hours)
 
-That's awesome! Starting with Angular is a great decision if you're getting into modern front-end development. I'll walk you through everything **step by step**, like a mentor would. We'll keep it beginner-friendly, clear, and practical, with examples and guidance at each stage.
+- **Creating Angular components**
+- **Data binding in Angular**
+  - Interpolation
+  - Property Binding
+  - Event Binding
+  - Two-way Binding
+- **Using Directives**
+  - `*ngIf`
+  - `*ngFor`
+
+## 3. Services and Dependency Injection in Angular (3 hours)
+
+- **Introduction to Angular Services**
+- **Dependency Injection and how it works in Angular**
+- **Creating and injecting services into components**
+
+## 4. Routing in Angular (3 hours)
+
+- **Setting up routing in Angular**
+- **Configuring routes with RouterModule**
+- **Route guards and lazy loading in Angular**
+
+## 5. Forms in Angular (2 hours)
+
+- **Template-driven forms**
+- **Reactive forms in Angular**
 
 ---
 
